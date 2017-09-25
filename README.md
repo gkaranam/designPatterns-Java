@@ -6,9 +6,9 @@ Design patterns represent the best practices used by experienced object-oriented
 
 ### What is GOF (Gang Of Four)?
 
-Design Patterns: Elements of Reusable Object-Oriented Design. This classic book with 23 different design patterns was written by FOUR authors rich Gamma, Richard Helm, Ralph Johnson, and John Vlissides who were collectively known as Gang Of Four.
+**Design Patterns: Elements of Reusable Object-Oriented Design**. This classic book with 23 different design patterns was written by FOUR authors rich Gamma, Richard Helm, Ralph Johnson, and John Vlissides who were collectively known as Gang Of Four.
 
 ### Classification of Design Patterns
-	#Creational
-	#Structural
-	#Behavioral
+[Creational](patterns/creational/README.md)
+[Structural](patterns/structural/README.md)
+[Behavioral](patterns/behavioral/README.md)
