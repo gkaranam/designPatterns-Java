@@ -10,5 +10,7 @@ Design patterns represent the best practices used by experienced object-oriented
 
 ### Classification of Design Patterns
 [Creational](patterns/creational/README.md)
+
 [Structural](patterns/structural/README.md)
+
 [Behavioral](patterns/behavioral/README.md)
