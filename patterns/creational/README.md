@@ -9,3 +9,5 @@ The basic form of object creation could result in design problems or added compl
 
 ## List of Patterns
 [Abstract Factory Design Pattern](abstractFactory/README.md)
+
+[Factory Design Pattern](factory/README.md)
